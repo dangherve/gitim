@@ -104,3 +104,5 @@ docs/_build/
 target/
 
 !buildTools
+
+!.woodpecker
